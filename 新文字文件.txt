@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>鯊魚寶寶</h1>
+<p>小寶是一隻可愛的鯊魚</p>
+<p>` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∧＿＿∧<p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&nbsp;&nbsp;&nbsp;・ω・&nbsp;)<p> 
+<p>┏━━Ｕ━━━Ｕ━━┓<p>
+<p>┃ 小咪超喜歡鯊魚 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┃<p>
+<p>┗━━━━━━━━━┛</p>
+<p>　 ∧＿∧&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;變出鯊魚吧!</p>
+<p>&nbsp;&nbsp;（｡･ω･｡)つ━☆・*。</p>
+<p>&nbsp;&nbsp;&nbsp;⊂　　 ノ 　　　・゜+.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;しーＪ　　　°。+ *´¨)</p>
+<pre>　　　       　　.· ´¸.·*´¨) ¸.·*¨)</pre>
+<pre>　　　　　     　(¸.·´ (¸.·’      🦈</pre>
+<pre>⊂_ヽ</pre>
+<pre>　 ＼＼  Λ＿Λ</pre>
+<pre>　　 ＼( ‘ㅅ' )                長 </pre>
+<pre>　　　 >　⌒ヽ                  腿  </pre>
+<pre>　　　/ 　 へ＼                小</pre>
+<pre>　　 /　　/　＼＼               咪</pre>
+<pre>　　 ﾚ　ノ　　 ヽ_つ           超</pre>
+<pre>　　/　/                       可</pre>
+<pre>　 /　/|                      愛 </pre>
+<pre>　(　(ヽ                        的</pre>
+<pre>　|　|、＼                     啦</pre>
+<pre>　| 丿 ＼ ⌒)</pre>
+<pre>　| |　　) /</pre>
+<pre>`ノ )　　Lﾉ</pre>
+</body>
+</html>
+
